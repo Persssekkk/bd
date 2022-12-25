@@ -1,0 +1,2 @@
+CREATE TABLE schema1.t2 (w INTEGER);
+ALTER TABLE t1 SET SCHEMA schema1;
